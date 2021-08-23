@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1629717064 source:c:\markellonchik\cpplearning\lab2\biginteger\main.cpp
+	"BigInteger.h"
+	<iostream>
+
+1570482640 c:\markellonchik\cpplearning\lab2\biginteger\biginteger.h
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	"BigIntegerAlg.h"
+
+1572865656 source:c:\markellonchik\cpplearning\lab2\biginteger\biginteger.cpp
+	"BigIntegerAlg.h"
+	"BigInteger.h"
+	<cstdlib>
+
+1570482573 c:\markellonchik\cpplearning\lab2\biginteger\bigintegeralg.h
+	"BigInteger.h"
+	"Generators.h"
+	<complex>
+
+1572865667 source:c:\markellonchik\cpplearning\lab2\biginteger\bigintegeralg.cpp
+	"BigIntegerAlg.h"
+
+1570353016 c:\markellonchik\cpplearning\lab2\biginteger\bigintegerfft.h
+	"BigInteger.h"
+	<complex>
+
+1570390323 c:\markellonchik\cpplearning\lab2\biginteger\generators.h
+	"Generator.h"
+	"IntegerGenerator.h"
+	"SquareGenerator.h"
+	"LinearGenerator.h"
+
+1629717397 c:\markellonchik\cpplearning\lab2\biginteger\generator.h
+	<string>
+	"BigInteger.h"
+
+1570389250 source:c:\markellonchik\cpplearning\lab2\biginteger\generator.cpp
+	"Generator.h"
+	"sstream"
+	<iostream>
+
+1572285393 source:c:\markellonchik\cpplearning\lab2\biginteger\integergenerator.cpp
+	"IntegerGenerator.h"
+
+1629717412 c:\markellonchik\cpplearning\lab2\biginteger\integergenerator.h
+	"Generator.h"
+
+1570389172 source:c:\markellonchik\cpplearning\lab2\biginteger\lineargenerator.cpp
+	"LinearGenerator.h"
+
+1570389361 c:\markellonchik\cpplearning\lab2\biginteger\lineargenerator.h
+	"SquareGenerator.h"
+
+1570389468 c:\markellonchik\cpplearning\lab2\biginteger\squaregenerator.h
+	"IntegerGenerator.h"
+
+1570389456 source:c:\markellonchik\cpplearning\lab2\biginteger\squaregenerator.cpp
+	"SquareGenerator.h"
+
